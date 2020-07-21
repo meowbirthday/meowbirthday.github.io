@@ -1,7 +1,7 @@
 $(function(){
     function timer(settings){
         var config = {
-            endDate: '2020-07-22 04:26',
+            endDate: '2020-07-22 23:59',
             timeZone: 'Asia/Ho_Chi_Minh',
             hours: $('#hours'),
             minutes: $('#minutes'),
